@@ -15,3 +15,6 @@ Click on the card in the collection menu to spawn, ignoring the card count limit
 1. Open the collection menu.
 2. Check the 'Click on card to spawn' checkbox at the bottom.
 2. Click on a card.
+
+## Screenshot
+![20240410233518](https://github.com/xioxin/BalatroUltraHand/assets/5716100/8a092e83-3e46-488b-9ff4-14fb612d226b)
