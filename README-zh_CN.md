@@ -9,7 +9,7 @@
 4. 打开游戏，您将看到一个MOD按钮。
 5. 选择MOD并开始享受游戏。
 
-## [UltraHand](mods/UltraHand.lua) 超级手
+## [UltraHand](Mods/UltraHand.lua) 超级手
 
 ### 介绍
 在收藏菜单中点击卡片即可生成，忽略卡片数量限制。支持小丑牌、塔罗牌、星球牌、幽灵牌
@@ -23,7 +23,7 @@
 ![20240410233518](https://github.com/xioxin/BalatroUltraHand/assets/5716100/8a092e83-3e46-488b-9ff4-14fb612d226b)
 
 
-# [IOSAdaptation](mods/IOSAdaptation.lua) iOS 适配
+# [IOSAdaptation](Mods/IOSAdaptation.lua) iOS 适配
 
 ### 介绍
 适配 iOS 分辨率。
