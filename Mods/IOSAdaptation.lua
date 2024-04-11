@@ -2,7 +2,7 @@
 --- MOD_NAME: iOS adaptation
 --- MOD_ID: IOSAdaptation
 --- MOD_AUTHOR: [Xioxin]
---- MOD_DESCRIPTION: Show multilingual button
+--- MOD_DESCRIPTION: Adapt to iOS resolution
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
