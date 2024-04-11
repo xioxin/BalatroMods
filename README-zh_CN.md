@@ -27,4 +27,4 @@
 
 ### 介绍
 适配 iOS 分辨率。
-> 中文默认字体可能在iOS下可能回发生错误，推荐[Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390)Mod 替换其他中文字体。推荐[怀源黑体](https://github.com/m13253/kaigen-gothic/blob/master/dist/CN/KaiGenGothicCN-Bold.ttf)
+> 中文默认字体可能在iOS下可能会发生错误，推荐[Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390)Mod 替换其他中文字体。推荐[怀源黑体](https://github.com/m13253/kaigen-gothic/blob/master/dist/CN/KaiGenGothicCN-Bold.ttf)字体。
