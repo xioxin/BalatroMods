@@ -24,6 +24,7 @@ function SMODS.INIT.IOSAdaptation()
         G.F_RUMBLE = 0.7
         G.F_CTA = false
         G.F_VERBOSE = true
+        G.F_ENGLISH_ONLY = false
         love.window.updateMode(
             love.graphics.getWidth(),
             love.graphics.getHeight(),
