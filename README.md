@@ -4,7 +4,7 @@
 [Steamodded](https://github.com/Steamopollys/Steamodded) - mod loader
 ## How to install
 1. Install the [Steamodded](https://github.com/Steamopollys/Steamodded) and modify the Balatro.exe. You can check the detail in [Steamodded](https://github.com/Steamopollys/Steamodded).
-1. Download the source code or the QuickLoad.lua code.
+1. Download the source code.
 3. Copy the mods/*.lua file to your MOD directory, usually "C:\Users\<USER>\AppData\Roaming\Balatro\Mods". It is created by [Steamodded](https://github.com/Steamopollys/Steamodded).
 4. Open the game and you will see a MOD button.
 5. Select the MOD and start enjoying the game.
@@ -12,7 +12,7 @@
 ## UltraHand
 
 ### Introduction
-Click on the card in the collection menu to spawn, ignoring the card count limit.
+Click on the card in the collection menu to spawn, ignoring the card count limit. Supports Joker, Tarot, Planet and Spectral.
 
 ### How to use
 1. Open the collection menu.
