@@ -9,7 +9,7 @@
 4. Open the game and you will see a MOD button.
 5. Select the MOD and start enjoying the game.
 
-# [UltraHand](mods/UltraHand.lua)
+# [UltraHand](Mods/UltraHand.lua)
 
 ### Introduction
 Click on the card in the collection menu to spawn, ignoring the card count limit. Supports Joker, Tarot, Planet and Spectral.
@@ -22,7 +22,7 @@ Click on the card in the collection menu to spawn, ignoring the card count limit
 ### Screenshot
 ![image](https://github.com/xioxin/BalatroUltraHand/assets/5716100/8a092e83-3e46-488b-9ff4-14fb612d226b)
 
-# [IOSAdaptation](mods/IOSAdaptation.lua)
+# [IOSAdaptation](Mods/IOSAdaptation.lua)
 
 ### Introduction
 Adapt to iOS resolution
