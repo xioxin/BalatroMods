@@ -1,8 +1,8 @@
 # Balatro mods
 
-## Dependence
+### Dependence
 [Steamodded](https://github.com/Steamopollys/Steamodded) - mod loader
-## How to install
+### How to install
 1. Install the [Steamodded](https://github.com/Steamopollys/Steamodded) and modify the Balatro.exe. You can check the detail in [Steamodded](https://github.com/Steamopollys/Steamodded).
 1. Download the source code.
 3. Copy the mods/*.lua file to your MOD directory, usually "C:\Users\<USER>\AppData\Roaming\Balatro\Mods". It is created by [Steamodded](https://github.com/Steamopollys/Steamodded).
